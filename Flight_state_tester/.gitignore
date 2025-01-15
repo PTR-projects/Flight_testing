@@ -1,0 +1,5 @@
+build/
+/Makefile
+/Banana_Ballistics
+/output
+output.csv
